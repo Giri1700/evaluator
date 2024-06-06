@@ -1,0 +1,50 @@
+img{
+    height: 80px;
+    width: 80px;
+    border-radius: 50px;
+    margin-top:10px;
+    margin-left:10px;
+}
+h1{
+    text-align: center;
+    position: relative;
+    
+}
+form{
+    margin: auto;
+    width: 400px;
+}
+#body{
+    background-color: #C0F2F9;
+    font-family: serif;
+}
+textarea{
+    border-radius: 10px;
+    background-color: #C0F2F9;
+}
+.form-select{
+    padding: 10px;
+    background-color: #75c1cb;
+}
+#btn{
+    padding: 10px;
+   
+}
+input{
+    border-radius: 10px;
+    background-color: #C0F2F9;
+}
+#button{
+    border-radius: 10px;
+    background-color: #C0F2F9;
+}
+select{
+    background-color: #C0F2F9;
+}
+#text{
+    background-color: #C0F2F9;
+    border-radius: 10px;
+}
+form{
+    margin-top: -30px;
+}
